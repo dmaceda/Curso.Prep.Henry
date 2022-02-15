@@ -61,4 +61,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 
 /* Ejercicio 6. */
-
+#ejercicioCinco {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    flex-direction: row-reverse;
+}
