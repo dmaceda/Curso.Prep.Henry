@@ -2,12 +2,12 @@ h1  {
     color : blue
 }
 img {
-    width : 400px
+    width : 300px
 }
 #thirdDiv {
     height: 500px;
     width: 600px;
-    background-color: green;
+    background-color: grey;
     padding: 50px;
     border: 5px solid black;
 }
